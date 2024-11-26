@@ -4,4 +4,10 @@
 
 COMP3025J Project. An integrated pipeline for facial emotion recognition and mental health advising.
 
-*Note: The project is based on the code of this repository: [Emotion-Recognition-with-ViT](https://github.com/lwachowiak/Emotion-Recognition-with-ViT)*
+The project can be divided into two parts:
+
+- Facial Emotion Recognition Module (ViT-based)
+- Mental Health Advisor Module (RAG-based)
+
+*Note: The part of the ViT fine-tuning code is based on the code of this repository:
+[Emotion-Recognition-with-ViT](https://github.com/lwachowiak/Emotion-Recognition-with-ViT)
