@@ -1,6 +1,6 @@
 # TransFERAG
 
-[![Open In Colab](https://colab.research.google.com/github/peylix/TransFERAG/blob/main/transformer_fer.ipynb)](https://colab.research.google.com/github/peylix/TransFERAG/blob/main/transformer_fer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/peylix/TransFERAG/blob/main/transformer_fer.ipynb)
 
 COMP3025J Project. An integrated pipeline for facial emotion recognition and mental health advising.
 
